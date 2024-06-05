@@ -1,0 +1,18 @@
+.card {
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 5px;
+  }
+  
+  .cardTitle {
+    margin: 0 0 10px;
+  }
+  
+  .cardDescription {
+    margin: 0 0 10px;
+  }
+  
+  .cardAuthorDate {
+    color: #888;
+  }
+  

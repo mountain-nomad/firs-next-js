@@ -1,0 +1,18 @@
+.container {
+    padding: 20px;
+  }
+  
+  .list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .list li {
+    margin-bottom: 20px;
+  }
+  
+  .title {
+    font-size: 2em;
+    margin-bottom: 20px;
+  }
+  
