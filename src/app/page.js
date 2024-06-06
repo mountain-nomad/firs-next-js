@@ -1,5 +1,5 @@
-import { data } from "../../public/data/data";
-import Card from "./components/card";
+import { data } from "../data";
+import Card from "../components/card";
 
 export default function Home() {
   const articles = data;
